@@ -11,13 +11,10 @@ I'm reserching and developping overlay network called "CYPHONIC" at <a href="htt
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Skills
-### Language(Studying)
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,java,python,go,html,js,react," />
+### Language and Tools(Studying)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,java,python,go,html,js,react,docker,k8s" />
 
-### Other(Studying)
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker,k8s,git" />
-
-##  Lab
+## Lab
 - https://pluslab.org/
 
 
