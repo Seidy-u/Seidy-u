@@ -1,5 +1,5 @@
 ## Hi there👋, I'm Seidy Ujiie.
-# I'm reserching and developping overlay network called "CYPHONIC" in @Pluslab
+I'm reserching and developping overlay network called "CYPHONIC" at <a href="https://pluslab.org/">pluslab</a>
 
 ## status
 <p align="left"> 
@@ -12,11 +12,10 @@
 
 ## Skills
 ### Language(Studying)
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,java,html,js,react,go" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,java,python,go,html,js,react," />
 
 ### Other(Studying)
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker,k8s,git" />
-
 
 ##  Lab
 - https://pluslab.org/
